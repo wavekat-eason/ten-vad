@@ -722,7 +722,7 @@ Third-party integrations and implementations built by the community.
 
 | Project | Language | Description |
 | ------- | -------- | ----------- |
-| [**wavekat&#8209;vad**](https://github.com/wavekat/wavekat-vad) | Rust | Pure Rust ONNX implementation with native preprocessing. No C dependencies. |
+| [**wavekat&#8209;vad**](https://github.com/wavekat/wavekat-vad) | Rust | Multi-backend VAD crate on [crates.io](https://crates.io/crates/wavekat-vad) with TEN VAD support via pure Rust ONNX inference. |
 
 > Have a project using TEN VAD? Feel free to open a PR to add it here!
 
