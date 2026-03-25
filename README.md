@@ -56,6 +56,7 @@
     - [macOS](#3-macos)
     - [Android](#4-android)
     - [iOS](#5-ios)
+- [Community Projects](#community-projects)
 - [TEN Ecosystem](#ten-ecosystem)
 - [Ask Questions](#ask-questions)
 - [Citations](#citations)
@@ -712,6 +713,18 @@ cd ./examples
       - Specify your Certification
 
         3.5. Build in Xcode and run demo on your device.
+
+<br>
+
+## Community Projects
+
+Third-party integrations and implementations built by the community.
+
+| Project | Language | Description |
+| ------- | -------- | ----------- |
+| [**wavekat-vad**](https://github.com/wavekat/wavekat-vad) | Rust | Pure Rust implementation using the ONNX model with a native preprocessing pipeline (pre-emphasis, STFT, mel filterbank, pitch estimation). No C library dependencies. |
+
+> Have a project using TEN VAD? Feel free to open a PR to add it here!
 
 <br>
 
