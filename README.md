@@ -722,7 +722,7 @@ Third-party integrations and implementations built by the community.
 
 | Project | Language | Description |
 | ------- | -------- | ----------- |
-| [**wavekat-vad**](https://github.com/wavekat/wavekat-vad) | Rust | Pure Rust implementation using the ONNX model with a native preprocessing pipeline (pre-emphasis, STFT, mel filterbank, pitch estimation). No C library dependencies. |
+| [**wavekat&#8209;vad**](https://github.com/wavekat/wavekat-vad) | Rust | Pure Rust ONNX implementation with native preprocessing. No C dependencies. |
 
 > Have a project using TEN VAD? Feel free to open a PR to add it here!
 
